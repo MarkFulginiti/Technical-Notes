@@ -6,14 +6,14 @@ The notes are organized by **field/method**, with an additional **industry map**
 
 ## Field Map
 
-- [Causal Inference](./causal-inference/)
-- [Generalized Linear and Regression Models](./generalized-linear-and-regression-models/)
-- [Machine Learning](./machine-learning/)
-- [Statistical Learning and Validation](./statistical-learning-and-validation/)
-- [Statistical Modeling](./statistical-modeling/)
-- [Sampling and Survey Inference](./sampling-and-survey-inference/)
-- [Probability and Stochastic Processes](./probability-and-stochastic-processes/)
-- [Monte Carlo and Computational Methods](./monte-carlo-and-computational-methods/)
+- [Causal Inference](./Causal Inference/)
+- [Generalized Linear and Regression Models](./Generalized Linear and Regression Models/)
+- [Machine Learning](./Machine Learning/)
+- [Statistical Learning and Validation](./Statistical Learning and Validation/)
+- [Statistical Modeling](./Statistical Modeling/)
+- [Sampling and Survey Inference](./Sampling and Survey Inference/)
+- [Probability and Stochastic Processes](./Probability and Stochastic Processes/)
+- [Monte Carlo and Computational Methods](./Monte Carlo and Computational Methods/)
 
 ## Industry Map
 
