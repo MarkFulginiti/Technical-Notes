@@ -48,8 +48,9 @@ Applied problems may include survey design, weighting, stratification, clusterin
 ## Foundational / Theoretical
 This section highlights core reference notes, reusable simulation infrastructure, and theory-oriented technical material that supports multiple applied domains. These notes are not tied to a single industry setting, but instead provide shared methodological foundations for later application papers.
 
-Examples include identifiability foundations, data-generating functions, estimator reference notes, validation foundations, and other reusable technical building blocks.
+Examples include identifiability foundations, data-generating functions, estimator reference notes, validation diagnostics, and other reusable technical building blocks.
 
+- [Data Generating Function for Simulation Studies](./monte-carlo-and-computational-methods/Data_Generating_Function.pdf)
 - [Identifiability Foundations for Causal Inference](./causal-inference/Identifiability_Foundations.pdf)
 
 
