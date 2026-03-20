@@ -44,6 +44,13 @@ Applied problems may include training effects, wage modeling, hiring-related sel
 ### Public-Sector Measurement
 Applied problems may include survey design, weighting, stratification, clustering, nonresponse bias, frame mismatch, domain estimation, and related official-statistics workflows.
 
+## Foundational / Theoretical
+This section highlights core reference notes, reusable simulation infrastructure, and theory-oriented technical material that supports multiple applied domains. These notes are not tied to a single industry setting, but instead provide shared methodological foundations for later application papers.
+
+- [Identifiability Foundations for Causal Inference](./causal-inference/identifiability-foundations/)
+
+Examples include identifiability foundations, data-generating functions, estimator reference notes, validation foundations, and other reusable technical building blocks.
+
 ## Notes
 
 - The repository is designed to grow over time.
