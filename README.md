@@ -1,8 +1,8 @@
 # Technical Notes
 
-This repository contains technical notes, short papers, simulation studies, and reproducible code across applied statistics, causal inference, modeling, computation, probability, and related quantitative workflows.
+This repository contains compact technical notes, short papers, simulation studies, and reproducible code focused on how statistical methods behave when real-world data violate ideal assumptions. The emphasis is on clear explanation, method comparison, practical consequences, and reproducible analysis for everyday practitioners across applied statistics, causal inference, modeling, computation, probability, and related quantitative workflows.
 
-The notes are organized by **field/method**, with an additional **industry map** below to highlight directly applicable problem settings across domains.
+The notes are organized primarily by field and method, with an additional industry map below highlighting common problem settings across domains.
 
 ## Field Map
 
@@ -45,8 +45,8 @@ Applied problems may include training effects, wage modeling, hiring-related sel
 Applied problems may include survey design, weighting, stratification, clustering, nonresponse bias, frame mismatch, domain estimation, and related official-statistics workflows.
 
 
-## Foundational / Theoretical
-This section highlights core reference notes, reusable simulation infrastructure, and theory-oriented technical material that supports multiple applied domains. These notes are not tied to a single industry setting, but instead provide shared methodological foundations for later application papers.
+## Foundational Notes
+This section highlights core reference notes, reusable simulation infrastructure, and theory-oriented technical material that supports multiple applied domains. These notes are not tied to a single industry setting; instead, they provide shared methodological foundations for later application papers.
 
 Examples include identifiability foundations, data-generating functions, estimator reference notes, validation diagnostics, and other reusable technical building blocks.
 
@@ -56,6 +56,6 @@ Examples include identifiability foundations, data-generating functions, estimat
 
 ## Notes
 
-- The repository is designed to grow over time.
+- The repository is designed to grow as new technical notes and application areas are added.
 - Notes are intended to be modular, reusable, and easy to reference across related projects.
-- Many notes will include both R and Python implementations when appropriate.
+- When appropriate, notes will include both R and Python implementations.
