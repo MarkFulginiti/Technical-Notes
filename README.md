@@ -51,6 +51,7 @@ This section highlights core reference notes, reusable simulation infrastructure
 Examples include identifiability foundations, data-generating functions, estimator reference notes, validation diagnostics, and other reusable technical building blocks.
 
 - [Data Generating Function for Simulation Studies](./monte-carlo-and-computational-methods/Data_Generating_Function.pdf)
+  - [R helper code: generate_sim_data.R](./monte-carlo-and-computational-methods/generate_sim_data.R)
 - [Identifiability Foundations for Causal Inference](./causal-inference/Identifiability_Foundations.pdf)
 
 
