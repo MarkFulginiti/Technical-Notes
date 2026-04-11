@@ -20,6 +20,9 @@ The notes are organized primarily by field and method, with an additional indust
 ### Healthcare
 Applied problems may include readmission risk, treatment-effect estimation, count modeling for utilization, missing clinical data, survival outcomes, calibration, and related healthcare decision problems.
 
+- [Missing Clinical Covariates](./generalized-linear-and-regression-models/Missing-Clinical-Covariates.pdf)
+  - [Supporting R code: missing_covariate_note_helpers.R](./generalized-linear-and-regression-models/missing_covariate_note_helpers.R)
+    
 ### Policy
 Applied problems may include program evaluation, treatment heterogeneity, regression adjustment, weighting, difference-in-differences, overlap, selection bias, and related policy analysis workflows.
 
