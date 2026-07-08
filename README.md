@@ -15,6 +15,7 @@ The notes are organized by field and method.
 
 ## Completed Notes
 
+- [Practical Nonidentification Example](./probability-and-stochastic-processes/Practical-Nonidentification-Example.pdf)
 - [Missing Clinical Covariates](./statistical-modeling/Missing-Clinical-Covariates.pdf)
   - [Supporting R code: missing_covariate_note_helpers.R](./statistical-modeling/missing_covariate_note_helpers.R)
 - [Data Generating Function for Simulation Studies](./monte-carlo-and-bayesian-methods/Data_Generating_Function.pdf)
