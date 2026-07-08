@@ -7,20 +7,18 @@ The notes are organized by field and method.
 ## Field Map
 
 - [Causal Inference](./causal-inference/)
-- [Generalized Linear and Regression Models](./generalized-linear-and-regression-models/)
-- [Machine Learning](./machine-learning/)
 - [Statistical Learning and Validation](./statistical-learning-and-validation/)
 - [Statistical Modeling](./statistical-modeling/)
 - [Sampling and Survey Inference](./sampling-and-survey-inference/)
 - [Probability and Stochastic Processes](./probability-and-stochastic-processes/)
-- [Monte Carlo and Computational Methods](./monte-carlo-and-computational-methods/)
+- [Monte Carlo and Bayesian Methods](./monte-carlo-and-bayesian-methods/)
 
 ## Completed Notes
 
-- [Missing Clinical Covariates](./generalized-linear-and-regression-models/Missing-Clinical-Covariates.pdf)
-  - [Supporting R code: missing_covariate_note_helpers.R](./generalized-linear-and-regression-models/missing_covariate_note_helpers.R)
-- [Data Generating Function for Simulation Studies](./monte-carlo-and-computational-methods/Data_Generating_Function.pdf)
-  - [Supporting R code: generate_sim_data.R](./monte-carlo-and-computational-methods/generate_sim_data.R)
+- [Missing Clinical Covariates](./statistical-modeling/Missing-Clinical-Covariates.pdf)
+  - [Supporting R code: missing_covariate_note_helpers.R](./statistical-modeling/missing_covariate_note_helpers.R)
+- [Data Generating Function for Simulation Studies](./monte-carlo-and-bayesian-methods/Data_Generating_Function.pdf)
+  - [Supporting R code: generate_sim_data.R](./monte-carlo-and-bayesian-methods/generate_sim_data.R)
 - [Identifiability Foundations for Causal Inference](./causal-inference/Identifiability_Foundations.pdf)
 
 
