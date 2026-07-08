@@ -1,5 +1,5 @@
 
-# Generalized Linear and Regression Models
+# Statistical Modeling
 
 This section contains technical notes, short papers, and applied examples in generalized linear models and regression modeling. The focus is on clear exposition, practical implementation, and reusable methodological reference material.
 
