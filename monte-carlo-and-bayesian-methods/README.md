@@ -1,4 +1,4 @@
-# Monte Carlo and Computational Methods
+# Monte Carlo and Bayesian Methods
 
 This section contains technical notes, short papers, and applied examples in Monte Carlo and computational methods. The focus is on clear exposition, practical implementation, and reusable methodological reference material.
 
