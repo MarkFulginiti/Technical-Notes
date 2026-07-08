@@ -16,10 +16,13 @@ The notes are organized by field and method.
 ## Completed Notes
 
 - [Practical Nonidentification Example](./probability-and-stochastic-processes/Practical-Nonidentification-Example.pdf)
+  
 - [Missing Clinical Covariates](./statistical-modeling/Missing-Clinical-Covariates.pdf)
   - [Supporting R code: missing_covariate_note_helpers.R](./statistical-modeling/missing_covariate_note_helpers.R)
+    
 - [Data Generating Function for Simulation Studies](./monte-carlo-and-bayesian-methods/Data_Generating_Function.pdf)
   - [Supporting R code: generate_sim_data.R](./monte-carlo-and-bayesian-methods/generate_sim_data.R)
+    
 - [Identifiability Foundations for Causal Inference](./causal-inference/Identifiability_Foundations.pdf)
 
 
